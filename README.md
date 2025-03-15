@@ -63,6 +63,27 @@ This guide outlines how to create a Chess game in Excel VBA with a more competit
 ### 6. Save the File
 - Save the workbook as an `.xlsm` file (Excel Macro-Enabled Workbook).
 
+
+Below are some example screenshots of the Chess game in action:
+
+#### Initial Chessboard Setup
+![Chessboard Setup](https://raw.githubusercontent.com/haybnzz/ExcelChess/refs/heads/main/ExcelChess.png)
+*Caption: The chessboard after running `SetupChessboard`.*
+
+### Gameplay Video
+Here’s a short MP4 video demonstrating the gameplay:
+
+<video width="600" controls>
+  <source src="https://github.com/haybnzz/ExcelChess/raw/refs/heads/main/ExcelChess.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Caption: A demo of White and Black (AI) taking turns.*
+
+#### Alternative: Link to Video (Fallback)
+[Watch Gameplay Video](https://github.com/haybnzz/ExcelChess/raw/refs/heads/main/ExcelChess.mp4)  
+*Click the link above to view the MP4 file if the video doesn’t display.*
+
+
 ## 📜 License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. See the [LICENSE](LICENSE) file for more details.
