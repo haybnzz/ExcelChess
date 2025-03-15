@@ -1,7 +1,7 @@
 # ExcelChess
 
 
-![ExcelChess Logo](https://raw.githubusercontent.com/haybnzz/ExcelChess/refs/heads/main/ExcelChess.png)
+![ExcelChess Logo](https://raw.githubusercontent.com/haybnzz/ExcelChess/refs/heads/main/ExcelChess_banner.png)
 
 [![Excel - ExcelChess](https://img.shields.io/static/v1?label=Excel&message=ExcelChess&style=for-the-badge&logo=microsoft-excel&logoSize=auto&labelColor=4B4453&color=FF6F61)](https://github.com/haybnzz/ExcelChess)
 [![CC BY-NC 4.0 License](https://img.shields.io/static/v1?label=License&message=CC%20BY-NC%204.0&style=for-the-badge&logo=creative-commons&logoSize=auto&labelColor=4B4453&color=FFD166)](https://github.com/haybnzz/ExcelChess/blob/main/LICENSE)
