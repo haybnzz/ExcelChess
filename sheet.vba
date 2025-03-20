@@ -1,4 +1,4 @@
-Private Sub Worksheet_SelectionChange(ByVal Target As Range)
+Private Sub Worksheet_SelectionChange(ByVal Target As Range) 
     Static firstSelection As Range
     Dim ws As Worksheet
     Set ws = Me
